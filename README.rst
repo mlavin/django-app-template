@@ -55,6 +55,14 @@ and run the quickstart::
     # Most other default answers should be fine
     sphinx-quickstart
 
+When you are ready to upload your app to the Python Package Index (PyPi) you
+can do that using the ``setup.py`` created with this template::
+
+    # Register you package name and meta data (This is done once)
+    python setup.py register
+    # Create a release and upload it (This is done with every new version)
+    python setup.py sdist upload
+
 
 Contributing
 -----------------------------------
