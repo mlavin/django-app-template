@@ -33,7 +33,7 @@ of a Django project. Beyond the standard ``<app_name>/__init__.py``, ``<app_name
 - .gitignore/.hgignore - Just to save you a few key strokes
 
 
-What Do To Next
+What To Do Next
 -----------------------------------
 
 This template gives you a good starting point for your application layout but there
