@@ -54,3 +54,12 @@ and run the quickstart::
     # Run the quickstart to create docs in docs/
     # Most other default answers should be fine
     sphinx-quickstart
+
+
+Contributing
+-----------------------------------
+
+Remember if these defaults don't work for you then you can always create a fork 
+and update them to fit your own needs. If you have found a bug or have a suggestion
+for an improvement which has broad appeal then please file a bug or submit
+a pull request.
