@@ -64,6 +64,24 @@ can do that using the ``setup.py`` created with this template::
     python setup.py sdist upload
 
 
+License Info
+-----------------------------------
+
+The template itself is available under the "Simplified" BSD license and can be
+freely modified under the terms of that license. You can see the 
+`full license text <https://github.com/mlavin/django-app-template/blob/master/LICENSE>`_  
+in the Github repository for additional detail.
+
+Applications created using this templates are not considered derivatives works.
+Applications created using this license can be freely licensed under whatever
+you as the author chooses. They may be either open or closed source.
+
+If you are creating an open source application and need some direction on
+available open source licenses for your new application, you can find information
+on the `Open Source Initiative (OSI) <http://opensource.org/licenses/category>`_
+website.
+
+
 Contributing
 -----------------------------------
 
