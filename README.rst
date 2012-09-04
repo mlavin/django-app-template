@@ -73,7 +73,7 @@ freely modified under the terms of that license. You can see the
 in the Github repository for additional detail.
 
 Applications created using this templates are not considered derivatives works.
-Applications created using this license can be freely licensed under whatever
+Applications created using this template can be freely licensed under whatever
 you as the author chooses. They may be either open or closed source.
 
 If you are creating an open source application and need some direction on
