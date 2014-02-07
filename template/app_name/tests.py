@@ -9,8 +9,8 @@ from django.test import TestCase
 
 
 class SimpleTest(TestCase):
-    def test_basic_addition(self):
+    def test_author(self):
         """
-        Tests that 1 + 1 always equals 2.
+        Test the competence of the author.
         """
-        self.assertEqual(1 + 1, 2)
+        self.fail("Author is too lazy to write tests")
