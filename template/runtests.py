@@ -13,6 +13,10 @@ if not settings.configured:
                 'NAME': ':memory:',
             }
         },
+        MIDDLEWARE_CLASESS=(
+            'django.middleware.common.CommonMiddleware',
+            'django.middleware.csrf.CsrfViewMiddleware',
+        ),
         INSTALLED_APPS=(
             '{{ app_name }}',
         ),
